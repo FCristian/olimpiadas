@@ -35,7 +35,7 @@ function pesquisar(){
     };
 
     if (!resultados){
-        section.innerHTML = `
+        resultados = `
             Nada foi encontrado   
             `
     };
